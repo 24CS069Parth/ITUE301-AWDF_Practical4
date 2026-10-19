@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-api-24cs050",
+  "name": "task-manager-api-24cs069",
   "version": "1.0.0",
   "description": "RESTful Task Management API with Node.js, Express, and Middleware Pipeline - Practical 4",
   "main": "server.js",
@@ -8,7 +8,7 @@
     "dev": "node server.js"
   },
   "keywords": ["express", "rest-api", "crud", "middleware", "cse304", "itue301"],
-  "author": "Vivek Maheshwari (24CS050)",
+  "author": "Parth Patel (24CS069)",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",

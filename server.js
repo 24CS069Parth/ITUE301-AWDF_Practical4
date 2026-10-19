@@ -117,7 +117,7 @@ let nextId = 6;
 app.get('/', (req, res) => {
   res.status(200).json({
     message: 'Task Management REST API - ITUE301 Practical 4',
-    student: 'Vivek Maheshwari (24CS050)',
+    student: 'Parth Patel (24CS069)',
     endpoints: {
       getAllTasks: 'GET /tasks',
       getTaskById: 'GET /tasks/:id',
@@ -301,6 +301,6 @@ app.listen(PORT, () => {
   console.log(`=========================================`);
   console.log(`Server running on port ${PORT}`);
   console.log(`API URL: http://localhost:${PORT}/tasks`);
-  console.log(`Student: Vivek Maheshwari (24CS050)`);
+  console.log(`Student: Parth Patel (24CS069)`);
   console.log(`=========================================`);
 });

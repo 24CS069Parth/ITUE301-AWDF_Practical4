@@ -2,8 +2,8 @@
 ## Practical 4: Building a RESTful API with Node.js and Express
 
 ### Student Details
-- **Student ID:** 24CS050
-- **Student Name:** Vivek Maheshwari
+- **Student ID:** 24CS069
+- **Student Name:** Parth Patel
 - **Subject Code & Name:** CSE304 / ITUE301: Advanced Web Development Frameworks
 - **Department:** Department of Computer Science and Engineering
 - **Institution:** Chandubhai S Patel Institute of Technology (CSPIT), CHARUSAT
